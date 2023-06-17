@@ -1,0 +1,23 @@
+{
+  "name": "basic_server",
+  "version": "1.0.0",
+  "description": "Basic Sever using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranKumar05/Basic_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranKumar05/Basic_Server/issues"
+  },
+  "homepage": "https://github.com/KaranKumar05/Basic_Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
