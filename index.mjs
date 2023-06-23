@@ -1,4 +1,3 @@
-console.log("Server is runing");
 import express from 'express';
 const app = express();
 
